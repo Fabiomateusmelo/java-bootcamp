@@ -1,4 +1,4 @@
-package interf;
+package iPhone;
 
 public class iPhone implements ReprodutorMusical, AparelhoTelefonico, NavegadorInternet {
 

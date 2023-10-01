@@ -1,4 +1,4 @@
-package interf;
+package iPhone;
 
 public interface AparelhoTelefonico {
     public void ligar(String numero);

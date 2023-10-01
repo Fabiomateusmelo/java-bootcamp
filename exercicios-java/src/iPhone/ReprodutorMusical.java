@@ -1,4 +1,4 @@
-package interf;
+package iPhone;
 
 public interface ReprodutorMusical {
     public void tocar();

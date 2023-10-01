@@ -1,4 +1,4 @@
-package interf;
+package iPhone;
 
 public interface NavegadorInternet {
     public void exibirPagina(String url);
